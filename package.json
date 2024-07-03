@@ -1,0 +1,25 @@
+{
+  "name": "baz",
+  "description": "The most interesting project in the world > Verb",
+  "version": "0.1.0",
+  "homepage": "https://github.com/beepbop/baz",
+  "author": "Brian Woodward (https://github.com/doowb)",
+  "repository": "beepbop/baz",
+  "bugs": {
+    "url": "https://github.com/beepbop/baz/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
